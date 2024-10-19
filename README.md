@@ -10,7 +10,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| :mag: [8-Week SQL Challenges](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Data analysis, data cleaning, data transformation | This contains solutions for the eight case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It highlights my capability to address a range of SQL challenges and showcases my skills in writing SQL queries and solving problems effectively. | 
+| :mag: [8-Week SQL Challenges](https://github.com/Tlcke77/8-Week-SQL-Challenge) | Data analysis, data cleaning, data transformation | This contains solutions for the eight case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It highlights my capability to address a range of SQL challenges and showcases my skills in writing SQL queries and solving problems effectively. | 
 
 
 # Python
