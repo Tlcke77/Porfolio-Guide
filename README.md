@@ -5,6 +5,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📚 Table of Contents
 - [SQL](#sql)
 - [Python](#python)
+- [Dashboards](#dashboards)
 
 # SQL
 
@@ -21,5 +22,11 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|---|
 | :basketball: [NBA Moneyball](https://github.com/Tlcke77/NBA-Moneyball-2021-22) | Data cleaning, data analysis & web scrapping | An anlysis of undervalued NBA players from the 2021-22 season and to assemble a team composed of such players. | Pandas & BeautifulSoup | 
 
+
+# Dashboards
+
+| Project Link | Dasboard Program | Project Description |    
+|---|---|---|
+| 🎧: [Audio Sales](https://github.com/Tlcke77/Audio-Sales/blob/main/README.md) | Power Bi | The dashboard provides insights into revenue by country, date, year, product, and discount band, alongside a detailed table view of revenue and profit by country and year. | 
 ***
 
