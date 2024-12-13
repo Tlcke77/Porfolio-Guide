@@ -27,6 +27,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Dasboard Program | Project Description |    
 |---|---|---|
-| 🎧: [Audio Sales](https://github.com/Tlcke77/Audio-Sales/blob/main/README.md) | Power Bi | The dashboard provides insights into revenue by country, date, year, product, and discount band, alongside a detailed table view of revenue and profit by country and year. | 
+| 🎧 [Audio Sales](https://github.com/Tlcke77/Audio-Sales/blob/main/README.md) | Power Bi | The dashboard provides insights into revenue by country, date, year, product, and discount band, alongside a detailed table view of revenue and profit by country and year. | 
 ***
 
